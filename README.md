@@ -48,7 +48,8 @@ The results are:
 
 ### Training and testing:
 
-- Install all the requirements from `./requirements.txt.`
+- Install all the requirements from `./requirements.txt`. pytorch 1.11.0+cu113 is installed with `pip install torch==1.11.0+cu113 --extra-index-url https://download.pytorch.org/whl/cu113`
+
 - Commands for reproducing the reported results:
   ##### WN18RR
   ```shell

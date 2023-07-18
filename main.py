@@ -15,8 +15,8 @@ from callbacks import PrintingCallback
 
 def main():
     if configs.save_dir == '':
-        if configs.jobid == '':
-            configs.save_dir = os.path.join('./checkpoint', datetime.now().strftime('%Y-%m-%d %H-%M-%S'))
+        if configs.jobid == 'XXXXXXXX':
+            configs.save_dir = os.path.join('./checkpoint', configs.dataset + '-' + datetime.now().strftime('%Y-%m-%d %H-%M-%S'))
         else:
             configs.save_dir = os.path.join('./checkpoint', configs.jobid)
     os.makedirs(configs.save_dir, exist_ok=True)
