@@ -1,0 +1,238 @@
+237
+0	soccer , football team , current roster. , soccer , football roster position , position
+1	music , artist , origin
+2	ice hockey , hockey team , current roster. , sports , sports team roster , position
+3	food , food , nutrients. , food , nutrition fact , nutrient
+4	film , actor , film. , film , performance , film
+5	award , award nominee , award nominations. , award , award nomination , nominated for
+6	government , political party , politicians in this party. , government , political party tenure , politician
+7	base , schemastaging , person extra , net worth. , measurement unit , dated money value , currency
+8	people , deceased person , place of death
+9	people , person , profession
+10	location , administrative division , first level division of
+11	base , marchmadness , ncaa basketball tournament , seeds. , base , marchmadness , ncaa tournament seed , team
+12	education , university , international tuition. , measurement unit , dated money value , currency
+13	location , us county , county seat
+14	location , location , partially contains
+15	tv , tv program , program creator
+16	film , film , music
+17	tv , tv program , languages
+18	common , topic , webpage. , common , webpage , category
+19	user , tsegaran , random , taxonomy subject , entry. , user , tsegaran , random , taxonomy entry , taxonomy
+20	education , field of study , students majoring. , education , education , major field of study
+21	business , business operation , assets. , measurement unit , dated money value , currency
+22	film , film set designer , film sets designed
+23	dataworld , gardening hint , split to
+24	people , person , languages
+25	business , job title , people with this title. , business , employment tenure , company
+26	location , country , form of government
+27	base , schemastaging , organization extra , phone number. , base , schemastaging , phone sandbox , service language
+28	people , person , place of birth
+29	sports , sports team , colors
+30	education , educational institution , school type
+31	award , award category , winners. , award , award honor , award winner
+32	organization , organization , headquarters. , location , mailing address , citytown
+33	education , educational degree , people with this degree. , education , education , student
+34	government , legislative session , members. , government , government position held , legislative sessions
+35	film , film , distributors. , film , film film distributor relationship , film distribution medium
+36	education , educational degree , people with this degree. , education , education , major field of study
+37	location , hud county place , county
+38	location , administrative division , country
+39	film , film , film production design by
+40	award , award winning work , awards won. , award , award honor , award
+41	organization , organization , headquarters. , location , mailing address , state province region
+42	base , schemastaging , organization extra , phone number. , base , schemastaging , phone sandbox , contact category
+43	tv , tv program , country of origin
+44	olympics , olympic participating country , medals won. , olympics , olympic medal honor , medal
+45	location , country , second level divisions
+46	award , award ceremony , awards presented. , award , award honor , honored for
+47	organization , organization member , member of. , organization , organization membership , organization
+48	education , educational institution , campuses
+49	music , artist , contribution. , music , recording contribution , performance role
+50	award , ranked item , appears in ranked lists. , award , ranking , list
+51	people , person , religion
+52	travel , travel destination , climate. , travel , travel destination monthly climate , month
+53	film , special film performance type , film performance type. , film , performance , film
+54	award , award nominee , award nominations. , award , award nomination , award
+55	location , statistical region , religions. , location , religion percentage , religion
+56	sports , sports league draft , picks. , sports , sports league draft pick , school
+57	film , film , distributors. , film , film film distributor relationship , region
+58	government , politician , government positions held. , government , government position held , legislative sessions
+59	organization , role , leaders. , organization , leadership , organization
+60	tv , tv network , programs. , tv , tv network duration , program
+61	soccer , football team , current roster. , sports , sports team roster , position
+62	music , instrument , instrumentalists
+63	business , business operation , operating income. , measurement unit , dated money value , currency
+64	people , cause of death , people
+65	film , film , film art direction by
+66	people , person , sibling s. , people , sibling relationship , sibling
+67	film , film , cinematography
+68	film , actor , dubbing performances. , film , dubbing performance , language
+69	base , biblioness , bibs location , state
+70	base , petbreeds , city with dogs , top breeds. , base , petbreeds , dog city relationship , dog breed
+71	people , person , gender
+72	education , field of study , students majoring. , education , education , student
+73	base , popstra , celebrity , dated. , base , popstra , dated , participant
+74	sports , sports team , roster. , american football , football roster position , position
+75	award , award winner , awards won. , award , award honor , award winner
+76	olympics , olympic participating country , medals won. , olympics , olympic medal honor , olympics
+77	film , director , film
+78	tv , tv producer , programs produced. , tv , tv producer term , program
+79	film , film distributor , films distributed. , film , film film distributor relationship , film
+80	olympics , olympic games , sports
+81	music , record label , artist
+82	education , university , local tuition. , measurement unit , dated money value , currency
+83	film , film , story by
+84	people , person , spouse s. , people , marriage , spouse
+85	sports , sports league , teams. , sports , sports league participation , team
+86	people , profession , specialization of
+87	base , americancomedy , celebrity impressionist , celebrities impersonated
+88	tv , tv program , genre
+89	award , award category , nominees. , award , award nomination , nominated for
+90	language , human language , countries spoken in
+91	organization , organization , headquarters. , location , mailing address , country
+92	location , statistical region , gdp real. , measurement unit , adjusted money value , adjustment currency
+93	education , university , fraternities and sororities
+94	award , award nominee , award nominations. , award , award nomination , award nominee
+95	military , military combatant , military conflicts. , military , military combatant group , combatants
+96	award , award nominated work , award nominations. , award , award nomination , nominated for
+97	location , location , time zones
+98	film , film , dubbing performances. , film , dubbing performance , actor
+99	film , film subject , films
+100	education , educational degree , people with this degree. , education , education , institution
+101	education , educational institution , colors
+102	award , award category , category of
+103	tv , tv personality , tv regular appearances. , tv , tv regular personal appearance , program
+104	film , film , language
+105	music , group member , membership. , music , group membership , group
+106	business , business operation , revenue. , measurement unit , dated money value , currency
+107	film , film , film festivals
+108	film , actor , film. , film , performance , special performance type
+109	organization , non profit organization , registered with. , organization , non profit registration , registering agency
+110	government , politician , government positions held. , government , government position held , jurisdiction of office
+111	base , aareas , schema , administrative area , administrative parent
+112	award , award winning work , awards won. , award , award honor , award winner
+113	organization , organization , place founded
+114	soccer , football player , current team. , sports , sports team roster , team
+115	government , politician , government positions held. , government , government position held , basic title
+116	music , artist , track contributions. , music , track contribution , role
+117	base , localfood , seasonal month , produce available. , base , localfood , produce availability , seasonal months
+118	celebrities , celebrity , celebrity friends. , celebrities , friendship , friend
+119	sports , professional sports team , draft picks. , sports , sports league draft pick , school
+120	award , hall of fame , inductees. , award , hall of fame induction , inductee
+121	influence , influence node , peers. , influence , peer relationship , peers
+122	medicine , disease , risk factors
+123	broadcast , content , artist
+124	film , film , estimated budget. , measurement unit , dated money value , currency
+125	military , military conflict , combatants. , military , military combatant group , combatants
+126	location , capital of administrative division , capital of. , location , administrative division capital relationship , administrative division
+127	tv , tv program , regular cast. , tv , regular tv appearance , actor
+128	people , deceased person , place of burial
+129	location , location , adjoin s. , location , adjoining relationship , adjoins
+130	music , group member , membership. , music , group membership , role
+131	award , award ceremony , awards presented. , award , award honor , award winner
+132	film , film , prequel
+133	film , film , produced by
+134	tv , tv program , tv producer. , tv , tv producer term , producer type
+135	sports , sports position , players. , sports , sports team roster , team
+136	olympics , olympic games , participating countries
+137	music , genre , parent genre
+138	tv , tv writer , tv programs. , tv , tv program writer relationship , tv program
+139	music , genre , artists
+140	film , film , genre
+141	people , person , employment history. , business , employment tenure , company
+142	education , university , domestic tuition. , measurement unit , dated money value , currency
+143	people , person , nationality
+144	location , country , capital
+145	location , statistical region , gni per capita in ppp dollars. , measurement unit , dated money value , currency
+146	base , aareas , schema , administrative area , capital
+147	business , business operation , industry
+148	location , hud foreclosure area , estimated number of mortgages. , measurement unit , dated integer , source
+149	film , film , other crew. , film , film crew gig , crewmember
+150	base , popstra , location , vacationers. , base , popstra , vacation choice , vacationer
+151	film , film , film format
+152	medicine , disease , notable people with this condition
+153	film , film , costume design by
+154	government , government office category , officeholders. , government , government position held , jurisdiction of office
+155	location , statistical region , gdp nominal. , measurement unit , dated money value , currency
+156	sports , sports team , roster. , baseball , baseball roster position , position
+157	award , award winning work , awards won. , award , award honor , honored for
+158	olympics , olympic sport , athletes. , olympics , olympic athlete affiliation , olympics
+159	celebrities , celebrity , sexual relationships. , celebrities , romantic relationship , celebrity
+160	people , marriage union type , unions of this type. , people , marriage , location of ceremony
+161	organization , organization , child. , organization , organization relationship , child
+162	organization , organization founder , organizations founded
+163	sports , sports team , sport
+164	people , ethnicity , geographic distribution
+165	location , statistical region , places exported to. , location , imports and exports , exported to
+166	location , country , official language
+167	film , film , production companies
+168	user , jg , default domain , olympic games , sports
+169	time , event , locations
+170	people , person , spouse s. , people , marriage , type of union
+171	government , governmental body , members. , government , government position held , legislative sessions
+172	media common , netflix genre , titles
+173	user , alexander , philosophy , philosopher , interests
+174	film , film , runtime. , film , film cut , film release region
+175	education , educational institution , students graduates. , education , education , student
+176	base , eating , practicer of diet , diet
+177	tv , non character role , tv regular personal appearances. , tv , tv regular personal appearance , person
+178	sports , sports position , players. , sports , sports team roster , position
+179	sports , professional sports team , draft picks. , sports , sports league draft pick , draft
+180	medicine , symptom , symptom of
+181	film , person or entity appearing in film , films. , film , personal film appearance , type of appearance
+182	sports , sports team location , teams
+183	american football , football team , current roster. , sports , sports team roster , position
+184	people , person , places lived. , people , place lived , location
+185	location , statistical region , rent50 2. , measurement unit , dated money value , currency
+186	film , film , personal appearances. , film , personal film appearance , person
+187	music , instrument , family
+188	sports , sports team , roster. , basketball , basketball roster position , position
+189	base , schemastaging , organization extra , phone number. , base , schemastaging , phone sandbox , service location
+190	film , film , release date s. , film , film regional release date , film release region
+191	award , award category , disciplines or subjects
+192	base , popstra , celebrity , friendship. , base , popstra , friendship , participant
+193	music , performance role , regular performances. , music , group membership , group
+194	film , film , edited by
+195	base , x2010fifaworldcupsouthafrica , world cup squad , current world cup squad. , base , x2010fifaworldcupsouthafrica , current world cup squad , current club
+196	base , popstra , celebrity , canoodled. , base , popstra , canoodled , participant
+197	film , film , release date s. , film , film regional release date , film release distribution medium
+198	film , film , other crew. , film , film crew gig , film crew role
+199	base , popstra , celebrity , breakup. , base , popstra , breakup , participant
+200	film , film , country
+201	music , performance role , regular performances. , music , group membership , role
+202	sports , sports team , roster. , american football , football historical roster position , position s
+203	film , film , release date s. , film , film regional release date , film regional debut venue
+204	time , event , instance of recurring event
+205	olympics , olympic participating country , athletes. , olympics , olympic athlete affiliation , olympics
+206	organization , endowed organization , endowment. , measurement unit , dated money value , currency
+207	travel , travel destination , how to get here. , travel , transportation , mode of transportation
+208	baseball , baseball team , team stats. , baseball , baseball team stats , season
+209	award , award category , winners. , award , award honor , ceremony
+210	government , legislative session , members. , government , government position held , district represented
+211	influence , influence node , influenced by
+212	base , culturalevent , event , entity involved
+213	people , ethnicity , people
+214	sports , sport , pro athletes. , sports , pro sports played , athlete
+215	location , statistical region , gdp nominal per capita. , measurement unit , dated money value , currency
+216	location , hud county place , place
+217	base , aareas , schema , administrative area , administrative area type
+218	base , locations , continents , countries within
+219	sports , sports position , players. , american football , football historical roster position , position s
+220	people , person , spouse s. , people , marriage , location of ceremony
+221	education , educational institution , students graduates. , education , education , major field of study
+222	film , film , written by
+223	olympics , olympic sport , athletes. , olympics , olympic athlete affiliation , country
+224	music , performance role , guest performances. , music , recording contribution , performance role
+225	film , film , featured film locations
+226	education , educational institution campus , educational institution
+227	sports , pro athlete , teams. , sports , sports team roster , team
+228	people , ethnicity , languages spoken
+229	film , film , executive produced by
+230	tv , tv producer , programs produced. , tv , tv producer term , producer type
+231	location , location , contains
+232	base , biblioness , bibs location , country
+233	user , ktrueman , default domain , international organization , member states
+234	music , performance role , track performances. , music , track contribution , role
+235	olympics , olympic games , medals awarded. , olympics , olympic medal honor , medal
+236	base , saturdaynightlive , snl cast member , seasons. , base , saturdaynightlive , snl season tenure , cast members
